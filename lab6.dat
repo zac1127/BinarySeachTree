@@ -1,0 +1,23 @@
+c d root
+c d usr
+c d dev
+c d tmp
+c d bin
+c d sbin
+c d uucp
+c f smith usr
+c f jones usr
+c f williams usr
+c f ttyp0 dev
+c f ttyp1 dev
+c f sd2 dev
+c f sd0 dev
+c f sd1 dev
+c f find bin
+c f ls bin
+c f crt set
+s dev
+s bin
+s var
+s usr
+t
